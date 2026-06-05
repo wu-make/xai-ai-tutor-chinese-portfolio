@@ -8,6 +8,12 @@ The materials demonstrate my practical experience with Mandarin Chinese speech r
 
 This repository is used as a public media supplement for my portfolio. It provides links to demonstration videos and an audio annotation sample that support my application for Chinese audio, speech transcription, and language-data evaluation work.
 
+## Public Release Link
+
+All portfolio media files can be accessed from the following GitHub Release:
+
+https://github.com/wu-make/xai-ai-tutor-chinese-portfolio/releases/tag/portfolio-v1
+
 ## Portfolio Media
 
 The main media files are provided in the GitHub Release section:
